@@ -1,0 +1,1 @@
+FROM naver/pinpoint-hbase:1.7.0-SNAPSHOT
